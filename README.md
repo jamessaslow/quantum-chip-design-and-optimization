@@ -12,6 +12,6 @@ My thesis discusses the application of microwave engineering principles to super
 ## Society of Quantum Engineers Guest Seminar
 
 I presented my research progress at the SJSU Society of Quantum Engineers guest seminar in Fall 2024.
-At this point in my research progress, I had my chip design and taped-out. I also achieved some simulation milestones of performing eigenmode simulations to understand how different parts of my chip interact with different eigenfrequencies
+At this point in my research progress, I had my chip designed and taped-out. I also achieved some simulation milestones of performing eigenmode simulations to understand how different parts of my chip interact with different eigenfrequencies
 
 [![Watch the Seminar on YouTube](https://img.youtube.com/vi/r9jCh_YBCD0/maxresdefault.jpg)](https://www.youtube.com/watch?v=r9jCh_YBCD0)
