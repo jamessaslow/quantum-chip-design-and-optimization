@@ -23,9 +23,9 @@ In 2024, I was a recipient of the NSF funded Quantum Technology Traineeship. I h
 
 ![image](https://github.com/user-attachments/assets/6566d68d-decd-4d0a-9599-f64ae88df59a)
 
-
-
 ![image](https://github.com/user-attachments/assets/7f3ec8ae-627d-497d-83fc-f0ffc01a0f25)
 
 
+## Current Progress
 
+At the moment, I am currently doing an investigative study into classical microwave components. In particular, I am learning about optimal design choices in coupled microwave electronics. Understanding classical coupling is an essential step to understanding the functionality of the quantum system as a whole.
