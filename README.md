@@ -15,6 +15,8 @@ I presented my research progress at the SJSU Society of Quantum Engineers guest 
 At this point in my research progress, I had my chip designed and taped-out. I also achieved some simulation milestones of performing eigenmode simulations to understand how different parts of my chip interact with different eigenfrequencies.
 
 [![Watch the Seminar on YouTube](https://img.youtube.com/vi/r9jCh_YBCD0/maxresdefault.jpg)](https://www.youtube.com/watch?v=r9jCh_YBCD0)
+(Click Here to watch the Guest Seminar!)
+
 
 
 ## National Science Foundation - NRT Annual Meeting 2024
