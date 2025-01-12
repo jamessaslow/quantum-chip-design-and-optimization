@@ -25,6 +25,7 @@ In 2024, I was a recipient of the NSF funded Quantum Technology Traineeship. I h
 
 
 
-<iframe src="https://github.com/user-attachments/files/18390168/NRT.Poster.pdf" width="100%" height="600px"></iframe>
+![image](https://github.com/user-attachments/assets/7f3ec8ae-627d-497d-83fc-f0ffc01a0f25)
+
 
 
