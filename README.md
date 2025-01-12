@@ -21,7 +21,7 @@ At this point in my research progress, I had my chip designed and taped-out. I a
 
 ## National Science Foundation - NRT Annual Meeting 2024
 
-In 2024, I was a recipient of the NSF funded Quantum Technology Traineeship. I had the opportunity to study as a temporary student at the Colorado School of Mines and present my NRT project at the NSF-NRT Annual Meeting 2024 in Washington, D.C.
+In 2024, I was a recipient of the NSF funded Quantum Technology Traineeship titled "A Program for Training a Quantum Workforce NRT-QL". I had the opportunity to study as a temporary student at the Colorado School of Mines and present my NRT project at the NSF-NRT Annual Meeting 2024 in Washington, D.C.
 
 ![image](https://github.com/user-attachments/assets/6566d68d-decd-4d0a-9599-f64ae88df59a)
 
