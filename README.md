@@ -9,13 +9,8 @@ A summary and showcase of my master's thesis for my Quantum Technology program a
 
 My thesis discusses the application of microwave engineering principles to superconducting chip design and simulation. This repository highlights my simulation milestones, research progress, and my overarching goal to mitigate noise and reliably implement single and two-qubit gates.
 
-<h2>Society of Quantum Engineers Guest Seminar</h2>
+## Society of Quantum Engineers Guest Seminar
 
 I presented my research progress at the SJSU Society of Quantum Engineers guest seminar in Fall 2024.
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=r9jCh_YBCD0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-
-
-
+[![Watch the Seminar on YouTube](https://img.youtube.com/vi/r9jCh_YBCD0/maxresdefault.jpg)](https://www.youtube.com/watch?v=r9jCh_YBCD0)
