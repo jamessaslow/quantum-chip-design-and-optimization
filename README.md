@@ -31,7 +31,7 @@ In 2024, I was a recipient of the NSF funded Quantum Technology Traineeship titl
 
 As a part of the Phys 253 Quantum Many Body Physics course at SJSU, another student and I worked on a final project investigating a *Second Quantization Model of Coupled Transmon Qubits*, where we investigated the framework of the functionality of flux-tunable superconducting qubits, derived an analytical expression for the $iSWAP$ unitary, and considered a spacetime inspired model for describing multi-qubit interactions.
 
-![diagram](https://github.com/user-attachments/assets/9548d9ff-3abf-4a4b-9002-66a1cc5f659e)
+![diagram](https://github.com/user-attachments/assets/9548d9ff-3abf-4a4b-9002-66a1cc5f659e)(https://github.com/jamessaslow/quantum-chip-design-and-optimization/blob/main/A_Second_Quantization_Model_of_Coupled_Transmon_Qubits.pdf)
 
 Click the image above to see the project paper!
 
