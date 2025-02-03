@@ -33,6 +33,7 @@ As a part of the Phys 253 Quantum Many Body Physics course at SJSU, another stud
 
 ![diagram][(https://github.com/user-attachments/assets/9548d9ff-3abf-4a4b-9002-66a1cc5f659e)](https://github.com/jamessaslow/quantum-chip-design-and-optimization/blob/main/A_Second_Quantization_Model_of_Coupled_Transmon_Qubits.pdf)
 
+
 Click the image above to see the project paper!
 
 
